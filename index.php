@@ -1,3 +1,3 @@
 <?php
-echo "Hello from PHP in Docker!!!";
+echo "Hello from PHP in Docker!!+++";
 ?>
